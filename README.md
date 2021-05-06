@@ -27,7 +27,7 @@ Stretch Goals:
 
 Include timestamps for when reimbursements are submitted and approved. Use a trigger in the database. Encrypt Passwords in the backend/database. Implement finance managers to approve requests. Ensure finance managers can not approve their own requests. Use bootstrap for styling.
 
-![](./Showcase_ERS_video_with_Back_End.gif)
+![](./ShowcaseERSvideowithBackEnd.gif)
 
 
 
